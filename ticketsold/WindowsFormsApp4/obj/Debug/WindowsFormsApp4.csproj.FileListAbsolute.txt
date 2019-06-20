@@ -1,0 +1,30 @@
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Kyle\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\kylle\Desktop\unsorted codew\Unsorted code\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\kylle\Desktop\sortedcode\ticketsold\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
